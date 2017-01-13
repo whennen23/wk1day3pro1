@@ -1,0 +1,101 @@
+* {
+  box-sizing: border-box;
+}
+
+
+
+body {
+  margin: 0;
+}
+
+.container {
+
+background-color: #FFFFFF;
+width: 100vw;
+height: 100vh;
+padding: 2.5vw;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.topbox {
+  height: 13vh;
+  width: 31vw;
+
+}
+
+.textbody{
+  width: 100%;
+  margin: 4vh 0 0 0;
+}
+
+header{
+  background-color: #FFFFFF;
+  position: static;
+  height: 13vh;
+  width: 100vw;
+  margin: 0;
+}
+
+.hbox1 {
+  background-color: #D0021B;
+}
+
+.hbox2 {
+  background-color: #4A90E2;
+  margin: 0 2vw;
+}
+
+.hbox3 {
+  background-color: #4A4A4A;
+}
+
+.box1 {
+height: 13vh;
+width: 100vw;
+margin: 0;
+}
+
+.box11 {
+height: 19vh;
+width: 100vw;
+margin: 0;
+}
+
+.box2 {
+background-color: #4A90E2;
+height: 30vh;
+width: 100vw;
+margin: 0;
+}
+
+.box3 {
+  background-color: #D0021B;
+  height: 30vh;
+  width: 31vw;
+  margin: 0;
+}
+
+
+
+footer {
+  background-color: #D0021B;
+  height: 13vh;
+  width: 100vw;
+  margin-top: 2vw;
+}
+
+.fbox1 {
+  background-color: #4A90E2;
+  height: 13vh;
+  width: 73vw;
+}
+
+.fbox2 {
+background-color: #4A4A4A;
+height: 13vh;
+width: 18vw;
+margin: 0 3.5vw 0 3.5vw;
+}
